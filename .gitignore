@@ -1,2 +1,7 @@
 # ignore all idea specific libraries
 .idea/*
+
+# ignore target directory
+target/*
+
+
