@@ -1,0 +1,2 @@
+# ignore all idea specific libraries
+.idea/*
